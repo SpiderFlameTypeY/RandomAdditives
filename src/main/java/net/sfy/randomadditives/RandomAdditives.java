@@ -1,6 +1,7 @@
 package net.sfy.randomadditives;
 
 import net.minecraft.world.item.CreativeModeTabs;
+import net.sfy.randomadditives.block.ModBlocks;
 import net.sfy.randomadditives.item.ModItems;
 import org.slf4j.Logger;
 
@@ -37,6 +38,7 @@ public class RandomAdditives {
         NeoForge.EVENT_BUS.register(this);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
@@ -54,6 +56,9 @@ public class RandomAdditives {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.MITHRIL_INGOT);
             event.accept(ModItems.RAW_MITHRIL);
+        }
+        if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+            event.accept(ModBlocks.MITHRIL_BLOCK);
         }
     }
 
