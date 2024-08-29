@@ -18,15 +18,15 @@ public class ModBlocks {
 
     public static final DeferredBlock<Block> MITHRIL_BLOCK = registerBlock("mithril_block",
             () -> new Block(BlockBehaviour.Properties.of()
-                    .requiresCorrectToolForDrops().sound(SoundType.METAL)));
+                    .requiresCorrectToolForDrops().sound(SoundType.METAL).destroyTime(5F)));
 
     public static final DeferredBlock<Block> MITHRIL_ORE = registerBlock("mithril_ore",
             () -> new Block(BlockBehaviour.Properties.of()
-                    .requiresCorrectToolForDrops().sound(SoundType.STONE)));
+                    .requiresCorrectToolForDrops().sound(SoundType.STONE).destroyTime(3.5F)));
 
     public static final DeferredBlock<Block> DEEPSLATE_MITHRIL_ORE = registerBlock("deepslate_mithril_ore",
             () -> new Block(BlockBehaviour.Properties.of()
-                    .requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+                    .requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE).destroyTime(3.5F)));
 
 
 
