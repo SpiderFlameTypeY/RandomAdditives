@@ -1,5 +1,10 @@
 {
   "item.randomadditives.mithril_ingot": "Mithril Ingot",
   "item.randomadditives.raw_mithril": "Raw Mithril",
-  "item.randomadditives.mithril_block": "Block of Mithril"
+
+  "block.randomadditives.mithril_block": "Block of Mithril",
+  "block.randomadditives.mithril_ore": "Mithril Ore",
+
+  "creativetab.randomadditives.random_additives_tab": "Random Additives",
+  "creativetab.randomadditives.random_additives_2_tab": "Random Additives 2"
 }

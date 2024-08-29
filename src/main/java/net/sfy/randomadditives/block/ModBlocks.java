@@ -10,7 +10,6 @@ import net.neoforged.neoforge.registries.DeferredBlock;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.sfy.randomadditives.RandomAdditives;
 import net.sfy.randomadditives.item.ModItems;
-
 import java.util.function.Supplier;
 
 public class ModBlocks {
@@ -20,6 +19,10 @@ public class ModBlocks {
     public static final DeferredBlock<Block> MITHRIL_BLOCK = registerBlock("mithril_block",
             () -> new Block(BlockBehaviour.Properties.of()
                     .requiresCorrectToolForDrops().sound(SoundType.METAL)));
+
+    public static final DeferredBlock<Block> MITHRIL_ORE = registerBlock("mithril_ore",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .requiresCorrectToolForDrops().sound(SoundType.STONE)));
 
 
 
