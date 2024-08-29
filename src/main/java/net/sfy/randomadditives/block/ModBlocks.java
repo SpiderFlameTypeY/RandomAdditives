@@ -24,6 +24,10 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.of()
                     .requiresCorrectToolForDrops().sound(SoundType.STONE)));
 
+    public static final DeferredBlock<Block> DEEPSLATE_MITHRIL_ORE = registerBlock("deepslate_mithril_ore",
+            () -> new Block(BlockBehaviour.Properties.of()
+                    .requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+
 
 
 

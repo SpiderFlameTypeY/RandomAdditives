@@ -24,6 +24,7 @@ public static final Supplier<CreativeModeTab> RANDOM_ADDITIVES_CREATIVE_TAB = CR
                     output.accept(ModItems.RAW_MITHRIL);
                     output.accept(ModBlocks.MITHRIL_BLOCK);
                     output.accept(ModBlocks.MITHRIL_ORE);
+                    output.accept(ModBlocks.DEEPSLATE_MITHRIL_ORE);
                 }).build());
 
 

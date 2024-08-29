@@ -62,6 +62,7 @@ public class RandomAdditives {
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.MITHRIL_BLOCK);
             event.accept(ModBlocks.MITHRIL_ORE);
+            event.accept(ModBlocks.DEEPSLATE_MITHRIL_ORE);
         }
     }
 
