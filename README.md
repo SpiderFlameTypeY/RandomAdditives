@@ -1,25 +1,31 @@
+This here mod adds a bunch of things that add to the gameplay
+=
 
-Installation information
-=======
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+Current Additions:
+-
+Mithril Ore + Raw + Ingot + Deepslate Ore
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+Future Additions (Don't hold me accountable to these):
+-
+Copper, Mithril, Amethyst, Emerald Armor + Tools
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+Tin, Lead, Silver, Bronze, Uranium, Titanium, Aluminum, Ruby
+
+Upgradable storage (think iron chests)
+
+Tinkers Construct Support (Waiting for update)
+
+Generators + energy (probably through Mekanism or AE2, or I'll just make my own if there's nothing good ported to 1.21.1)
+
+Cave Dimension (think Caves II)
+
+New mobs (Enemies for Cave Dimension, most likely)
+
+Torch Launcher (Don't ask how I'm gonna code that)
+
+Creative Flight in Survival (Probably something chargable)
+
+Fluid Storage
