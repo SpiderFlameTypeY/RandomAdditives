@@ -18,7 +18,7 @@ Upgradable storage (think iron chests)
 
 Tinkers Construct Support (Waiting for update)
 
-Generators + energy (probably through Mekanism or AE2, or I'll just make my own if there's nothing good ported to 1.21.1)
+Generators + energy (probably through Mekanism or AE2, or I'll just make my own if there's nothing good ported to 1.21.1, OR I'll make my own AE2 :3)
 
 Cave Dimension (think Caves II)
 
