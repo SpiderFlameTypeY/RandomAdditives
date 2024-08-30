@@ -1,5 +1,5 @@
 {
-  "replace": "false",
+  "replace": false,
   "values": [
     "randomadditives:mithril_ore",
     "randomadditives:deepslate_mithril_ore",
