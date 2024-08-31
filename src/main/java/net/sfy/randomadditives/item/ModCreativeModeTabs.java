@@ -22,6 +22,7 @@ public static final Supplier<CreativeModeTab> RANDOM_ADDITIVES_CREATIVE_TAB = CR
                 .displayItems((itemDisplayParameters, output) -> {
                     output.accept(ModItems.MITHRIL_INGOT);
                     output.accept(ModItems.RAW_MITHRIL);
+                    output.accept(ModItems.MITHRIL_NUGGET);
                     output.accept(ModBlocks.MITHRIL_BLOCK);
                     output.accept(ModBlocks.MITHRIL_ORE);
                     output.accept(ModBlocks.DEEPSLATE_MITHRIL_ORE);
