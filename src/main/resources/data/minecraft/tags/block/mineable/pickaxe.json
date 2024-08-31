@@ -3,6 +3,7 @@
   "values": [
     "randomadditives:mithril_ore",
     "randomadditives:deepslate_mithril_ore",
-    "randomadditives:mithril_block"
+    "randomadditives:mithril_block",
+    "randomadditives:raw_mithril_block"
   ]
 }

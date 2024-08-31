@@ -63,6 +63,7 @@ public class RandomAdditives {
             event.accept(ModBlocks.MITHRIL_BLOCK);
             event.accept(ModBlocks.MITHRIL_ORE);
             event.accept(ModBlocks.DEEPSLATE_MITHRIL_ORE);
+            event.accept(ModBlocks.RAW_MITHRIL_BLOCK);
         }
     }
 
