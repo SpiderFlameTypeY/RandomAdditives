@@ -12,13 +12,15 @@ Future Additions (Don't hold me accountable to these):
 -
 Copper, Mithril, Amethyst, Emerald Armor + Tools
 
-Tin, Lead, Silver, Bronze, Uranium, Titanium, Aluminum, Ruby
+Tin, Lead, Silver, Bronze, Uranium, Titanium, Aluminum, Ruby, Sapphire, Pearl
 
-Upgradable storage (think iron chests)
+Elemental Essence (fire, water, earth, air, etc.)
+
+Upgradable storage (think iron chests -- Wood - Stone - Coal - Copper - Iron - Etc.)
 
 Tinkers Construct Support (Waiting for update)
 
-Generators + energy (probably through Mekanism or AE2, or I'll just make my own if there's nothing good ported to 1.21.1, OR I'll make my own AE2 :3)
+Generators + energy (Cables upgradable via tiers and upgradable storage drives via tiers. Terminal for viewing items -- Modular w/ boards)
 
 Cave Dimension (think Caves II)
 
@@ -27,5 +29,7 @@ New mobs (Enemies for Cave Dimension, most likely)
 Torch Launcher (Don't ask how I'm gonna code that)
 
 Creative Flight in Survival (Probably something chargable)
+
+Creative Mode - 1/1B drop
 
 Fluid Storage
