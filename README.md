@@ -10,24 +10,18 @@ Mithril Ore + Raw + Ingot + Deepslate Ore
 
 Future Additions (Don't hold me accountable to these):
 -
-Copper, Mithril, Amethyst, Emerald Armor + Tools
+Enriched Netherite, Enderium, Flux Infused Gold, Mithril, Tin, Lead, Silver, Zinc, Bronze, Osmium, Uranium, Redstone Infused Iron, Titanium, Aluminum, Ruby, Sapphire, Pearl, Opal, Aluminum Brass, Electrum, Brass, Amethyst Bronze, Emerald Bronze, Ruby Bronze, Opal Bronze, Sapphire Bronze, Pearl, Nickel
 
-Tin, Lead, Silver, Zinc, Bronze, Osmium, Uranium, Charged Iron, Titanium, Aluminum, Ruby, Sapphire, Pearl
+Elemental Crystals
 
-Elemental Essence (fire, water, earth, air, etc.)
+Storage (Expandable, RS, Fluid, Drawer)
 
-Upgradable storage (think iron chests -- Wood - Stone - Coal - Copper - Iron - Etc.)
+RF
 
-Tinkers Construct Support (Waiting for update)
+Cave Dimension
 
-Generators + energy (Cables upgradable via tiers and upgradable storage drives via tiers. Terminal for viewing items -- Modular w/ boards)
+Torch Launcher
 
-Cave Dimension (think Caves II)
+Angel Ring-esc rf curio
 
-New mobs (Enemies for Cave Dimension, most likely)
-
-Torch Launcher (Don't ask how I'm gonna code that)
-
-Creative Flight in Survival (Probably something chargable)
-
-Fluid Storage
+logistics
