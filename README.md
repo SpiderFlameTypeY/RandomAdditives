@@ -1,4 +1,4 @@
-This here mod adds a bunch of things that add to the gameplay
+An All-In-One Mod to bring down the mod count.
 =
 
 
@@ -12,7 +12,7 @@ Future Additions (Don't hold me accountable to these):
 -
 Copper, Mithril, Amethyst, Emerald Armor + Tools
 
-Tin, Lead, Silver, Bronze, Uranium, Titanium, Aluminum, Ruby, Sapphire, Pearl
+Tin, Lead, Silver, Zinc, Bronze, Osmium, Uranium, Charged Iron, Titanium, Aluminum, Ruby, Sapphire, Pearl
 
 Elemental Essence (fire, water, earth, air, etc.)
 
@@ -29,7 +29,5 @@ New mobs (Enemies for Cave Dimension, most likely)
 Torch Launcher (Don't ask how I'm gonna code that)
 
 Creative Flight in Survival (Probably something chargable)
-
-Creative Mode - 1/1B drop
 
 Fluid Storage
