@@ -20,7 +20,7 @@ Netherite Chest
 Enriched Netherite Chest
 Infinity Chest
 
-Stack Upgrade 128-256-512-1024-2048
+Stack Upgrade 2-8-32-128-512-2048
 Void Upgrade 1 (All) - 2 (Slot)
 Crafting Upgrade
 Furnace Upgrade
