@@ -2,7 +2,6 @@ package net.sfy.randomadditives.item;
 
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
-import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.neoforged.bus.api.IEventBus;
@@ -27,6 +26,12 @@ public static final Supplier<CreativeModeTab> RANDOM_ADDITIVES_CREATIVE_TAB = CR
                     output.accept(ModBlocks.MITHRIL_ORE);
                     output.accept(ModBlocks.DEEPSLATE_MITHRIL_ORE);
                     output.accept(ModBlocks.RAW_MITHRIL_BLOCK);
+                    output.accept(ModItems.MITHRIL_SWORD);
+                    output.accept(ModItems.MITHRIL_SHOVEL);
+                    output.accept(ModItems.MITHRIL_PICKAXE);
+                    output.accept(ModItems.MITHRIL_AXE);
+                    output.accept(ModItems.MITHRIL_HOE);
+
                 }).build());
 
 

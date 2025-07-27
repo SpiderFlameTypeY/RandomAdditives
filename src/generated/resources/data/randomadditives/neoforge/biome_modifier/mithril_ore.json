@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#c:is_overworld",
+  "features": "randomadditives:mithril_ore",
+  "step": "underground_ores"
+}

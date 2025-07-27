@@ -1,6 +1,13 @@
 {
   "item.randomadditives.mithril_ingot": "Mithril Ingot",
   "item.randomadditives.raw_mithril": "Raw Mithril",
+  "item.randomadditives.mithril_nugget": "Mithril Nugget",
+
+  "item.randomadditives.mithril_sword": "Mithril Sword",
+  "item.randomadditives.mithril_shovel": "Mithril Shovel",
+  "item.randomadditives.mithril_pickaxe": "Mithril Pickaxe",
+  "item.randomadditives.mithril_axe": "Mithril Axe",
+  "item.randomadditives.mithril_hoe": "Mithril Hoe",
 
   "block.randomadditives.mithril_block": "Block of Mithril",
   "block.randomadditives.mithril_ore": "Mithril Ore",
